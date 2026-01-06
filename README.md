@@ -73,6 +73,19 @@ IT Engineering Student | AI • Web & Mobile Developer
 - 📧 Email: alvian.ok123@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/alvian-putra-hardiadi-b6647b254/
 
+### 🤝 Let's Connect!
+<p align="center">
+  <a href="https://github.com/AlvianPh">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:alvian.ok123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/alvian-putra-hardiadi-b6647b254/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
+
 ---
 
 ⭐ *“Building logical, smart, and impactful systems through technology.”*
