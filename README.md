@@ -4,7 +4,7 @@ IT Engineering Student | AI • Web & Mobile Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abuamar142&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AlvianPh&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -26,6 +26,10 @@ IT Engineering Student | AI • Web & Mobile Developer
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 
+#### 🗄️ Database & SQL
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+
 #### ⚙️ Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter%204-000?&logo=CodeIgniter)
@@ -34,7 +38,6 @@ IT Engineering Student | AI • Web & Mobile Developer
 #### 📡 IoT & Tools
 ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=Espressif)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
-![DHT22](https://img.shields.io/badge/-DHT22-000)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
@@ -49,18 +52,18 @@ IT Engineering Student | AI • Web & Mobile Developer
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuamar142&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvianPh&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuamar142&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvianPh&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abuamar142&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlvianPh&theme=onedark&row=1&column=6" />
 </p>
 
 ---
