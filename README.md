@@ -4,7 +4,7 @@ IT Engineering Student | AI • Web & Mobile Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlvianPh&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=alvianph&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -52,25 +52,17 @@ IT Engineering Student | AI • Web & Mobile Developer
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvianPh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvianph&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvianph&show_icons=true&theme=tokyonight" />
-</p>
 ---
 
 ### 🏆 GitHub Metrics
 <p align="center">
-  <img src="https://metrics.lecoq.io/alvianph?template=classic&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/alvianph?template=classic&theme=tokyonight&config.timezone=Asia/Jakarta" />
 </p>
 
 ---
-
-### 🤝 Let's Connect!
-- 💻 GitHub: https://github.com/AlvianPh 
-- 📧 Email: alvian.ok123@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/alvian-putra-hardiadi-b6647b254/
 
 ### 🤝 Let's Connect!
 <p align="center">
