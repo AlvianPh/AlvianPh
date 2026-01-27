@@ -56,14 +56,13 @@ IT Engineering Student | AI • Web & Mobile Developer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvianPh&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvianph&show_icons=true&theme=tokyonight" />
 </p>
-
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Metrics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlvianPh&theme=onedark&row=1&column=6" />
+  <img src="https://metrics.lecoq.io/alvianph?template=classic&theme=tokyonight" />
 </p>
 
 ---
