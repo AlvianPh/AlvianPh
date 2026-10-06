@@ -1,20 +1,41 @@
 <h1 align="center">Hi there 👋, I'm Alvian Putra Hardiadi</h1>
 <h3 align="center">
-IT Engineering Student | AI • Web & Mobile Developer
+Informatics Student | NLP & Machine Learning Research | Flutter & Web Developer
 </h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvianph&label=Profile%20Views&color=0e75b6&style=flat" />
+Published researcher (Sinta 4 journal + IEEE ICERA 2026) building label-efficient NLP systems for Indonesian text.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Informatics / IT Engineering Student (7th Semester) on STMIK El Rahma Yogyakarta**
-- 🤖 Passionate about **Android Developer (Flutter) & Artificial Intelligence**
-- 🧠 Interested in **AI-based monitoring systems & smart technology**
-- 🎯 Career Goal: **Flutter Expert & Software Engineering Lecturer**
-- 🇮🇩 Based in Indonesia
+- 🎓 Informatics student at **STMIK El Rahma Yogyakarta**
+- 🔬 Research: **Active Learning for Indonesian sentiment analysis** (SVM, IndoBERT). First author at **FAHMA (Sinta 4)**, second author & presenter at **IEEE ICERA 2026**
+- 📱 Building **mobile (Flutter)** and **web (Laravel)** apps with a focus on clean UI/UX (Figma)
+- 👨‍🏫 Teaching **Coding & Artificial Intelligence** and **UI/UX (Figma)** at SMK Koperasi Yogyakarta
+- 🎯 Open to **internship / entry-level roles** in ML/NLP and mobile development
+- 📍 Yogyakarta, Indonesia
+
+---
+
+### 🔬 Research & Publications
+
+| Paper | Venue | Role |
+|---|---|---|
+| **Adaptive Multi-Oracle Active Learning using IndoBERT Representations for Efficient Indonesian Sentiment Classification** | IEEE ICERA 2026 | Second author · Presenter |
+| **Analisis Active Learning SVM berbasis Margin Sampling pada Sentimen YouTube MBG** | FAHMA, Vol. 24 No. 2 (2026) · Sinta 4 | First author (undergraduate thesis) |
+
+- 🔗 **ICERA 2026:** [DOI](https://doi.org/10.1109/ICERA72709.2026.11666714) · [Code](https://github.com/AlvianPh/multi-oracle-al-indobert-mbg)
+  Multi-oracle Active Learning with IndoBERT reached macro-F1 **0.6277** (best single-oracle: 0.5902); only **149 labels** were needed to reach 90% of the passive baseline (**90.1%** label reduction).
+- 🔗 **FAHMA:** [DOI](https://doi.org/10.61805/fahma.v24i2.203) · [Code](https://github.com/AlvianPh/al-margin-sampling-sentiment-mbg)
+  SVM + Margin Sampling with a human-in-the-loop oracle improved macro-F1 from 0.5154 to 0.5389 with only 50 extra labels.
+
+---
+
+### 🚀 Other Projects
+- 🎨 **UI/UX SIMPEG El-Rahma**: employee management system design (wireframes & interface) · [Figma](https://www.figma.com/design/41cLqlpN0JP67qc3Oj0A36/Sistem-Kepegawaian-UI-UX?node-id=289-4993&t=MlcNPRJPw0l9l2N5-1)
+- 🌐 **Portfolio:** [alvianph.github.io](https://alvianph.github.io/)
+- 🪷 **Jawir_Apps**: Javanese script (aksara) detection app with Flutter + CNN *(in progress)*
 
 ---
 
@@ -26,40 +47,48 @@ IT Engineering Student | AI • Web & Mobile Developer
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 
-#### 🗄️ Database & SQL
+#### 🤖 Machine Learning & Data
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?&logo=huggingface)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
+
+#### ⚙️ Frameworks
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter%204-000?&logo=CodeIgniter)
+
+#### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-#### ⚙️ Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter%204-000?&logo=CodeIgniter)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+#### 🛠️ Design & Tools
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-000?&logo=googlecolab)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 
-#### 📡 IoT & Tools
+#### 📡 IoT
 ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=Espressif)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 
 ---
 
 ### 📌 Current Focus
-- 🔹 AI for Image Detection, Accessibility & Smart Applications  
-- 🔹 Web & Mobile App Development (REST API)  
+- 🔹 Active Learning & low-resource NLP for Indonesian text (IndoBERT)
+- 🔹 Flutter mobile apps with ML features (image detection)
+- 🔹 Web & mobile app development (REST API)
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alvianph&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Metrics
-<p align="center">
-  <img src="https://metrics.lecoq.io/alvianph?template=classic&theme=tokyonight&config.timezone=Asia/Jakarta" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvianph&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html" />
 </p>
 
 ---
@@ -79,4 +108,4 @@ IT Engineering Student | AI • Web & Mobile Developer
 
 ---
 
-⭐ *“Building logical, smart, and impactful systems through technology.”*
+⭐ *"Building logical, smart, and impactful systems through technology."*
