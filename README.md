@@ -34,7 +34,7 @@ Published researcher (Sinta 4 journal + IEEE ICERA 2026) building label-efficien
 
 ### 🚀 Other Projects
 - 🎨 **UI/UX SIMPEG El-Rahma**: employee management system design (wireframes & interface) · [Figma](https://www.figma.com/design/41cLqlpN0JP67qc3Oj0A36/Sistem-Kepegawaian-UI-UX?node-id=289-4993&t=MlcNPRJPw0l9l2N5-1)
-- 🌐 **Portfolio:** [alvianph.github.io](https://alvianph.github.io/)
+- 🌐 **Portfolio:** [alvianph.github.io](https://www.alvianputra.my.id/)
 - 🪷 **Jawir_Apps**: Javanese script (aksara) detection app with Flutter + CNN *(in progress)*
 
 ---
